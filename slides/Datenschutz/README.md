@@ -1,6 +1,6 @@
 # Datenschutz - Schütz deine Daten, wenn du’s nicht tust, tut’s keiner!
 
-Vortrag im Rahmen von Chaos macht Schule zum Thmea Datenschutz und Datensicherheit. 
+Vortrag im Rahmen von Chaos macht Schule zum Thema Datenschutz und Datensicherheit. 
 
 - Zielpublikum: Schüler
 - Dauer: 20-30 Minuten
